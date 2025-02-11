@@ -32,4 +32,5 @@ public abstract class Equipment {
 	public void setPrice(int price) {
 		this.price = price;
 	}
+	//juste pour voir
 }
